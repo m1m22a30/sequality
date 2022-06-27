@@ -15,6 +15,6 @@ public class App {
     System.out.println(new App().getGreeting());
     System.out.println("Sum of 2 and 3 is " + cal.sum(2, 3) + ".Average is " + x / 2 + ".\n");
     System.out.println("Sum of 1 to 10 is " + cal.sum2(1, 10) + ".Average is " + y / 10 + ".\n");
-    System.out.println("Sum of odd of 1 to 10 is " + cal.suma(1, 10) + ".Sum of even is " + cal.sumeven(1, 10) + ".\n");
+    System.out.println("Sum of odd of 1 to 10 is 2 and 3 is "+cal.sum(2,3)+".Average is "+x/2 +".\n")
   }
 }
