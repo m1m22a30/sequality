@@ -12,7 +12,7 @@ public class CalculateTest {
     expected = 55;
     assertEquals(expected, calculate.sum2(1, 10));
     expected = 25;
-    assertEquals(expected, calculate.suma(1, 10));
+    assertEquals(expected, calculate.sumodd(1, 10));
     expected = 30;
     assertEquals(expected, calculate.sumeven(1, 10));
   }
